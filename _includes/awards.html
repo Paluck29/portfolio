@@ -1,0 +1,49 @@
+<style type="text/css">
+	.justifier{
+		text-align: justify;
+	}
+</style>
+
+<h2 id="student">
+	As a student
+</h2>
+
+<div class="awards_student">
+	<ul class="justifier">
+		<ol>
+			{% for item in site.data.awards.student %}
+			<li>{{ item }}</li>
+			{% endfor %}
+		</ol>
+	</ul>
+</div>
+
+<h2 id="before">
+	Before joining IITR
+</h2>
+
+<div class="awards_before">
+	<ul class="justifier">
+		<ol>
+			{% for item in site.data.awards.before %}
+			<li>{{ item }}</li>
+			{% endfor %}
+		</ol>
+		
+	</ul>
+</div>
+
+<h2 id="after">
+	After joining IITR
+</h2>
+
+<div class="awards_after">
+	<ul class="justifier">
+		<ol>
+			{% for item in site.data.awards.after %}
+			<li>{{ item }}</li>		
+			{% endfor %}
+		</ol>
+		
+	</ul>
+</div>

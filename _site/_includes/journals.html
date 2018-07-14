@@ -1,0 +1,26 @@
+<div class="editor">
+	<h3 id="executive">EXECUTIVE EDITOR</h3>
+	<ol>
+		{% for item in site.data.journals.editor  %}
+			<li>{{item}} <br>	</li>
+		{% endfor %}
+	</ol>	
+</div>
+
+<div class="member">
+	<h3 id="member">MEMBER OF EDITORIAL BOARD</h3>
+	<ol>
+		{% for item in site.data.journals.member  %}
+			<li>{{item}} <br>	</li>
+		{% endfor %}
+	</ol>	
+</div>
+
+<div class="reviewer">
+	<h3 id="reviewer">REVIEWER OF JOURNALS</h3>
+	<ol>
+		{% for item in site.data.journals.reviewer  %}
+			<li>{{item}} <br>	</li>
+		{% endfor %}
+	</ol>
+</div>

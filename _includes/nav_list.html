@@ -1,0 +1,8 @@
+<!--<h2>{{ site.data.navigation }}</h2>-->
+<ul>
+   {% for item in site.data.navigation %}
+      
+      	<a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+      
+   {% endfor %}
+</ul>

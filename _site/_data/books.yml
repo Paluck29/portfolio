@@ -1,0 +1,465 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.11.2 by Michael Rose
+  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Prof. Kusum Deep, PhD</title>
+<meta name="description" content="A Mathematician">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="Prof. Kusum Deep, PhD">
+<meta property="og:url" content="http://localhost:4000/">
+
+
+  <meta property="og:description" content="A Mathematician">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/_images/cals.jpg">
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+
+    <button onclick="backToTop()" id="top" title="Go to top">^</button>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="/"></a>
+        <ul class="visible-links">
+
+            <li class="masthead__menu-item">
+              <a href="/index/" >Home</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/teaching/" >Teaching</a>
+            </li>
+            
+            <li class="masthead__menu-item">
+              <a href="/research/" >Research</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/students/" >Students</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/project/" >Projects</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/scrs/" >About SCRS</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/awards/" >Awards</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/contact/" >Contact Me</a>
+            </li>
+          
+        </ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: url('/_images/cals.jpg'); height: 120px;">
+  
+    <div class="wrapper">
+      <h1 class="page__title" itemprop="headline" style="margin-bottom: 40px;">
+        
+          Prof. Kusum Deep, PhD
+
+        
+      </h1>
+      
+        <!--<p class="page__lead">A Mathematician
+</p>-->
+      
+      
+      
+    </div>
+  
+  
+    <span class="page__hero-caption">Photo credit: <a href="https://wallpapercave.com/mathematics-wallpaper"><strong>Wallpapercave</strong></a>
+</span>
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky" style="width: 250px;">
+  
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+
+      
+        <img src="/_images/mom.jpg" alt="Kusum Deep" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Kusum Deep</h3>
+    
+    
+      <p class="author__bio" itemprop="description">
+        Professor, <br>IIT Roorkee.
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Roorkee</span>
+        </li>
+      
+
+      
+
+      
+        <li>
+          <a href="mailto:kusumfma@iitr.ernet.in">
+            <meta itemprop="email" content="kusumfma@iitr.ernet.in" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      	
+      	<li>
+          <a href="http://scrs.in/" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> SCRS
+          </a>
+        </li>
+
+
+
+
+
+        <li>
+          <a href="http://scholar.google.com/citations?user=ByQN_c0AAAAJ" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+
+
+
+
+
+      	 <li>
+          <a href="https://www.facebook.com/kusumdeep" itemprop="sameAs">
+            <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
+
+
+
+
+
+
+
+ 
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Prof. Kusum Deep, PhD">
+    <meta itemprop="description" content="A Mathematician">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text" style="width: 725px;">
+        
+        
+        ---
+authored:
+  - '“Optimization Techniques”, jointly with Prof. C. Mohan
+      Indian Ed., New Age, New Delhi, 2009 and 
+      Foreign Ed., New Age Science, UK, 2009. '
+
+special:
+  - 'Edited Special Issue “Bio-Inspired Techniques for Complex Systems, Int. J. '
+  - 'Advanced Intelligence Paradigms, Vol. 5, Nos. 1 & 2, 2013. '
+  - 'Edited Special Issue “Optimization” of Opsearch Journal, Springer, Vol. I, March 2009. '
+  - 'Edited Special Issue “Optimization” of Opsearch Journal, Springer, Vol. 2, June 2009. '
+
+proceedings:
+  - series: 'Advances in Intelligent Systems and Computing. '
+    name: 'Proceedings of the Seventh International Conference on Soft Computing for Problem Solving, SocProS 2017. '
+    editors: 'Bansal,J.C.,Das,K.N., Nagar, A.K., Deep, K., Ojha, A.K. (Eds.) '
+  - series: 'Advances in Intelligent Systems and Computing. '
+    name: 'Proceedings of the Sixth International Conference on Soft Computing for Problem Solving, SocProS 2016, Vol.1. '
+    editors: 'Deep, K., Bansal,J.C.,Das,K.N., Lal, A.K., Garg, H., Nagar, A.K., Pant, M. (Eds.) '
+    link: 'http://www.springer.com/in/book/9789811033216 '
+  - series: 'Advances in Intelligent Systems and Computing. '      
+    name: 'Proceedings of the Sixth International Conference on Soft Computing for Problem Solving, SocProS 2016, Vol.2. '
+    editors: 'Deep, K., Bansal,J.C.,Das,K.N., Lal, A.K., Garg, H., Nagar, A.K., Pant, M. (Eds.) '
+    link: 'http://www.springer.com/in/book/9789811033247 ' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 416, 2016 '      
+    name: 'Proceedings of the Fifth International Conference on Soft Computing for Problem Solving SocProS 2015, Volume 1. '
+    editors: 'Pant, M., Deep, K., Bansal, J.C., Nagar, A., Das, K.N. (Eds.) '
+    link: 'http://www.springer.com/in/book/9789811004476 ' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 417, 2016 '      
+    name: 'Proceedings of the Fifth International Conference on Soft Computing for Problem Solving SocProS 2015, Volume 2. '
+    editors: 'Pant, M., Deep, K., Bansal, J.C., Nagar, A., Das, K.N. (Eds.) '
+    link: 'http://www.springer.com/in/book/9789811004506 ' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 335, 2014 '      
+    name: 'Proceedings of the Fourth International Conference on Soft Computing for Problem Solving SocProS 2014, Volume 1. '
+    editors: 'Das, K.N., Deep, K., Pant, M., Bansal, J.C., Nagar, A. (Eds.) '
+    link: 'http://www.springer.com/in/book/9788132222163 ' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 336, 2014 '      
+    name: 'Proceedings of the Fourth International Conference on Soft Computing for Problem Solving SocProS 2014, Volume 2. '
+    editors: 'Das, K.N., Deep, K., Pant, M., Bansal, J.C., Nagar, A. (Eds.) '
+    link: 'http://www.springer.com/in/book/9788132222194 ' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 258, 2014 '      
+    name: 'Proceedings of the Third International Conference on Soft Computing for Problem Solving SocProS 2013, Volume 1. '
+    editors: 'Pant, M., Deep, K., Nagar, A., Bansal, J.C. (Eds.) '
+    link: 'http://www.springer.com/gp/book/9788132217701 ' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 259, 2014 '      
+    name: 'Proceedings of the Third International Conference on Soft Computing for Problem Solving SocProS 2013, Volume 2. '
+    editors: 'Pant, M., Deep, K., Nagar, A., Bansal, J.C. (Eds.) '
+    link: 'http://www.springer.com/gp/book/9788132217671 ' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 236, 2013 '      
+    name: 'Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012 '
+    editors: 'Babu, B.V.; Nagar, A.; Deep, K.; Pant, M.; Bansal, J.C.; Ray, K.; Gupta, U. (Eds.) ISBN 978-81-322-1601-8, 2013'
+    link: 'http://www.springer.com/gp/book/9788132216018' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 201, '      
+    name: 'Proceedings of Seventh International Conference on Bio-Inspired Computing: Theories and Applications (BIC-TA 2012), Springer, '
+    editors: 'J. C. Bansal, P. K. Singh, Kusum Deep, Millie Pant, Atulya K. Nagar (Eds.) ' 
+  - series: 'Advances in Intelligent Systems and Computing, Vol. 202, '      
+    name: 'Proceedings of Seventh International Conference on Bio-Inspired Computing: Theories and Applications (BIC-TA 2012), Springer, '
+    editors: 'J. C. Bansal, P. K. Singh, Kusum Deep, Millie Pant, Atulya K. Nagar (Eds.) ' 
+  - series: 'Advances in Intelligent and Soft Computing, Vol. 130, 2012 '      
+    editors: 'Kusum Deep, Atulya Nagar, Millie Pant, Jagdish Chand Bansal (Eds.), ISBN 978-81-322-0486-2, Springer. '
+    link: 'http://www.springer.com/gp/book/9788132204862 ' 
+  - series: 'Advances in Intelligent and Soft Computing, Vol. 131, 2012 '      
+    editors: 'Kusum Deep, Atulya Nagar, Millie Pant, Jagdish Chand Bansal (Eds.), ISBN 978-81-322-0490-9, Springer. '
+    link: 'http://www.springer.com/gp/book/9788132204909 ' 
+        
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+    </div>
+
+    
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+  	<li><strong>Follow:</strong></li>
+
+  	<li><a href="https://www.facebook.com/kusumdeep"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    
+    
+    
+    
+    
+    
+    <!--<li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>-->
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2018 . Designed with &hearts; by <a href="https://github.com/Paluck29/">Paluck</a>. <br>Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+
+
+
+    <div style="text-align:center;">
+      <script type="text/javascript" src="http://services.webestools.com/cpt_visitors/55980-6-8.js"></script>
+    </div>
+
+
+
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+  <script type="text/javascript">
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("top").style.display = "block";
+      } else {
+        document.getElementById("top").style.display = "none";
+      }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function backToTop() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
+
+
+
+
+
+
+
+  </body>
+</html>

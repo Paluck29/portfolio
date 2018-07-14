@@ -1,0 +1,65 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+ .author__avatar:hover {
+    transform: scale(1.8);
+    margin-left:75px;
+    margin-top:55px;
+    margin-right:10px;
+    margin-bottom:80px;
+  }
+
+div{
+	text-align:justify;
+  font-size: 18px;
+}
+
+p{
+	text-align:justify;
+	padding: 5px;
+	margin: 0px;
+	line-height:20px;
+}
+
+
+.toc{
+	position: fixed;
+	width: 250px;
+	overflow-y: auto;
+	height: 400px;
+  margin-right: 20px;
+
+}
+
+#top {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  z-index: 99;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  background-color: #f21368;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#top:hover {
+  background-color: #d64161;
+}
+
+$paragraph-indent: true;
+
+.masthead{
+  height: 80px;
+}
+
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+

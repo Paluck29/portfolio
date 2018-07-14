@@ -1,0 +1,14 @@
+<div class="talks">
+	<h3 id="abroad">In Abroad</h3>
+	<ol>
+		{% for item in site.data.invited_talks.abroad %}
+			<li>{{item}}</li>
+		{% endfor %}
+	</ol>
+	<h3 id="india">In India</h3>
+	<ol>
+		{% for item in site.data.invited_talks.india %}
+			<li>{{item}}</li>
+		{% endfor %}
+	</ol>
+</div>

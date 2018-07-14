@@ -1,0 +1,51 @@
+<div class="sponsored">
+	<h2 id="sponsored">Sponsored Research Projects</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Year of Funding</th>
+				<th>Sponsoring Organization</th>
+				<th>Title of Project</th>
+				<th>Amount of Grant</th>
+				<th>Co-Investigators</th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.projects.sponsored %}
+			<tr>
+			<td> {{item.year}} </td>
+			<td> {{item.org}} </td>
+			<td> {{item.title}} </td>
+			<td> {{item.amt}} </td>	
+			<td> {{item.coinvest}} </td>	
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>
+<br>
+<div class="consultancy">
+	<h2 id="consultancy">Consultancy Projects</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Year of Funding</th>
+				<th>Sponsoring Organization</th>
+				<th>Title of Project</th>
+				<th>Amount</th>
+				<th>Co-Investigators</th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.projects.consultancy %}
+			<tr>
+			<td> {{item.year}} </td>
+			<td> {{item.org}} </td>
+			<td> {{item.title}} </td>
+			<td> {{item.amt}} </td>	
+			<td> {{item.coinvest}} </td>	
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>

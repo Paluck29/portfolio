@@ -1,0 +1,24 @@
+<div class="developed">
+	<h2 id="developed">Courses Developed</h2>
+	<ol>
+		{% for item in site.data.courses.developed %}
+		<li>{{item}}</li>
+		{% endfor %}
+	</ol>
+</div>
+<div class="conducted">
+	<h2 id="conducted">Courses Conducted</h2>
+	<ol>
+		{% for item in site.data.courses.conducted %}
+		<li>{{item}}</li>
+		{% endfor %}
+	</ol>
+</div>
+<div class="edusat">
+	<h2 id="edusat">Edusat Talk</h2>
+	<ol>
+		{% for item in site.data.courses.edusat %}
+		<li>{{item}}</li>
+		{% endfor %}		
+	</ol>
+</div>

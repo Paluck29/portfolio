@@ -1,0 +1,525 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.11.2 by Michael Rose
+  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Prof. Kusum Deep, PhD</title>
+<meta name="description" content="A Mathematician">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="Prof. Kusum Deep, PhD">
+<meta property="og:url" content="http://localhost:4000/">
+
+
+  <meta property="og:description" content="A Mathematician">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/_images/cals.jpg">
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+
+    <button onclick="backToTop()" id="top" title="Go to top">^</button>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="/"></a>
+        <ul class="visible-links">
+
+            <li class="masthead__menu-item">
+              <a href="/index/" >Home</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/teaching/" >Teaching</a>
+            </li>
+            
+            <li class="masthead__menu-item">
+              <a href="/research/" >Research</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/students/" >Students</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/project/" >Projects</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/scrs/" >About SCRS</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/awards/" >Awards</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/contact/" >Contact Me</a>
+            </li>
+          
+        </ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: url('/_images/cals.jpg'); height: 120px;">
+  
+    <div class="wrapper">
+      <h1 class="page__title" itemprop="headline" style="margin-bottom: 40px;">
+        
+          Prof. Kusum Deep, PhD
+
+        
+      </h1>
+      
+        <!--<p class="page__lead">A Mathematician
+</p>-->
+      
+      
+      
+    </div>
+  
+  
+    <span class="page__hero-caption">Photo credit: <a href="https://wallpapercave.com/mathematics-wallpaper"><strong>Wallpapercave</strong></a>
+</span>
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky" style="width: 250px;">
+  
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+
+      
+        <img src="/_images/mom.jpg" alt="Kusum Deep" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Kusum Deep</h3>
+    
+    
+      <p class="author__bio" itemprop="description">
+        Professor, <br>IIT Roorkee.
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Roorkee</span>
+        </li>
+      
+
+      
+
+      
+        <li>
+          <a href="mailto:kusumfma@iitr.ernet.in">
+            <meta itemprop="email" content="kusumfma@iitr.ernet.in" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      	
+      	<li>
+          <a href="http://scrs.in/" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> SCRS
+          </a>
+        </li>
+
+
+
+
+
+        <li>
+          <a href="http://scholar.google.com/citations?user=ByQN_c0AAAAJ" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+
+
+
+
+
+      	 <li>
+          <a href="https://www.facebook.com/kusumdeep" itemprop="sameAs">
+            <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
+
+
+
+
+
+
+
+ 
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Prof. Kusum Deep, PhD">
+    <meta itemprop="description" content="A Mathematician">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text" style="width: 725px;">
+        
+        
+        ---
+eighteen:
+  - 'Dinkar, S. K., and <b>KUSUM DEEP</b> (2018). Accelerated opposition based Antlion Optimizer with application to Order Reduction of Linear Time Invariant Systems (Accepted). Arabian Journal for Science and Engineering Springer.(SCI, <b>IF = 0.865</b>)'
+  - 'Assif Assad and <b>KUSUM DEEP</b>: "A Hybrid Harmony Search and Simulated Annealing Algorithm for Continuous Optimization", Information Sciences, in press, https://doi.org/10.1016/j.ins.2018.03.042 (<b>Impact Factor = 4.832</b>)'
+  - 'Shubham Gupta and <b>KUSUM DEEP</b>: "A novel Random Walk Grey Wolf Optimizer", Swarm and Evolutionary Computation, Elsevier, 2018, https://doi.org/10.1016/j.swevo.2018.01.001. (<b>Impact Factor = 3.893</b>)'
+  - 'Shubham Gupta and <b>KUSUM DEEP</b>: "Random Walk Grey Wolf Optimizer for Constrained Engineering Optimization Problems", Computational Intelligence, Wiley,2018, https://doi.org/10.1111/coin.12160  (<b>Impact Factor = 0.964</b>).'
+
+seventeen:
+  - 'Shail Dinkar and <b>KUSUM DEEP</b>: "Opposition Based Laplacian Ant Lion Optimizer", Journal of Computational Science, Elsevier, Vol. 23, pp.71-90, 2017. (<b>Impact Factor=1.748</b>)'
+  - 'Assif Assad and <b>KUSUM DEEP</b>: "Harmony search based memetic algorithms for solving sudoku", International Journal of System Assurance Engineering and Management, Springer, pp.1-14, 2017. '
+  - 'Assif Assad and <b>KUSUM DEEP</b>: "A Heuristic Based Harmony Search Algorithm for Maximum Clique Problem", accepted, Opsearch, Springer, 2017.'
+  - 'Amarjeet Singh and <b>KUSUM DEEP</b>: "Improved Variants of Gravitational Search Algorithm Based on "best-so-far" Updating Mechanism", accepted, National Academy Science Letters, Springer, 2017.'
+  - 'Amarjeet Singh and <b>KUSUM DEEP</b>: "Reconstruction of 3D Curves and Surfaces using New Variants of Gravitational Search Algorithm", accepted, Journal of Information and Optimization Sciences, 2017.'
+  - 'Amreek Singh, <b>KUSUM DEEP</b> and Pallavi Grover: "A Novel Approach to Accelerate Calibration Process of K-Nearest Neighbours Classifier Using GPU", Journal of Parallel and Distributed Computing, Elsevier, Vol. 10, pp.114-129, 2017. (<b>Impact Factor = 1.32</b>).'
+  - 'Amarjeet Singh and <b>KUSUM DEEP</b>: “Hybridizing Gravitational Search Algorithms with Real Coded Genetic Algorithms for Structural Engineering Design Problem”, Opsearch, Springer, 2017.'
+  - 'Soniya Lalwani, Rajesh Kumar and <b>KUSUM DEEP</b>: "Multi-objective two-level swarm intelligence approach for multiple RNA sequence-structure alignment", Swarm and Evolutionary Computation, Elsevier, Vol. 34, pp. 130-144, 2017, (<b>Impact Factor = 3.893</b>)'
+  - 'Garima Singh and <b>KUSUM DEEP</b>: "Effectiveness of new Multiple-PSO based Membrane Optimization Algorithms on CEC 2014 Benchmarks and Iris Classification",Natural Computing, Springer Vol. 16, No. 3, pp. 473-496, 2017. (<b>Impact Factor = 0.778</b>)'
+  - 'Amarjeet Singh and <b>KUSUM DEEP</b>: "Novel Hybridized variants of Gravitational Search Algorithm for Constraint Optimization", International Journal of Swarm Intelligence, Vol. 3, Issue 1, pp. 1-22, Jan 2017.'
+  - 'Kavita Gupta, <b>KUSUM DEEP</b> and J. C. Bansal: “Spider monkey optimization algorithm for constrained optimization problems”, Soft Computing, Springer,Vol.21, Issue 23, pp. 6933–6962, Dec.2017, (<b>Impact Factor=2.472</b>)'
+
+sixteen:
+  - 'Assif Assad and <b>KUSUM DEEP</b>: "A Two Phase Harmony Search Algorithm for Continuous Optimization. accepted, Computational Intelligence. Wiley. 2016.'
+  - 'Vanita Garg and <b>KUSUM DEEP</b>: “Constrained Laplacian Biogeography-Based Optimization Algorithm”, accepted, International Journal of System Assurance Engineering and Management, Springer, DOI :10.1007/s13198-016-0539-7.'
+  - 'Anupam Yadav, <b>KUSUM DEEP</b>, Joong Hoon Kim and Atulya K Nagar: "Gravitational Swarm Optimizer for Global Optimization", Swarm and Evolutionary Computation, Elsevier, Vol. 31, pp.64-89, 2016. (<b>Impact Factor 3.893</b>).'
+  - 'Vanita Garg and <b>KUSUM DEEP</b>: Efficient mutation strategies embedded in Laplacian Biogeography-Based Optimization. International Journal of Applied Evolutionary Computation, 7(2), Article 2, pp. 12-44, 2016.'
+  - 'Garima Singh and <b>KUSUM DEEP</b>: "A New Membrane Algorithm using the rules of Particle Swarm Optimization incorporated within the framework of Cell-like P-systems to solve Sudoku", Applied Soft Computing, 45, 27-39, 2016, Elsevier, (<b>Impact Factor 3.541</b>)'
+  - 'Vanita Garg and <b>KUSUM DEEP</b>: "Performance of Laplacian Biogeography-Based Optimization Algorithm on CEC 2014 continuous optimization benchmarks and Camera Calibration Problem", Swarm and Evolutionary Computation, Vol. 27, pp. 132-144, 2016. (<b>Impact Factor 3.893</b>)'
+  - 'Kedar Nath Das, Raghav Prasad and <b>KUSUM DEEP</b>: "Design and Applications of a new DE-PSO-DE algorithm for Unconstrained Optimization Problems", Accepted, International Journal of Swarm Intelligence, Inderscience, 2016.'
+  - 'Garima Singh and <b>KUSUM DEEP</b>: "Use of Membrane Algorithms for Solving Constrained Engineering Design Problems", World Journal of Modelling and Simulation, UK, Vol. 12, No.3, pp. 189-203, August 2016.'
+  - 'Garima Singh and <b>KUSUM DEEP</b>: "Cell-like P-systems coupled with rules of Particle Swarm Optimization to Solve Blasius Differential Equation". International Journal of Swarm Intelligence, Inderscience, Vol. 2, Issue 1,pp.87-96, Jan 2016.'
+
+fifteen:
+  - 'Hira Zaheer, Millie Pant, Sushil Kumar, Oleg Monakhov, Emilia Monakhova, <b>KUSUM DEEP</b>: "A new guiding force strategy for differential evolution", International Journal of System Assurance Engineering and Management, pp.1-14, 2015.'
+  - 'Amarjeet Singh and <b>KUSUM DEEP</b>, “Real Coded Genetic Algorithm Operators Embedded in Gravitational Search Algorithm for Continuous Optimization”, International Journal of Intelligent Systems and Applications (IJISA) 7(12), 1-22, 2015. DOI: 10.5815/ijisa.2015.12.01 '
+  - 'Kavita Gupta, <b>KUSUM DEEP</b> and J. C. Bansal: "Improving the local search ability of Spider Monkey Optimization algorithm using Quadratic Approximation for unconstrained optimization", In Press, Computational Intelligence, 2015, DOI: 10.1111/coin.12081.'
+  - 'Amarjeet Singh and <b>KUSUM DEEP</b>: “New Variants of Glowworm Swarm Optimization Based on Step Size”, International Journal of System Assurance Engineering and Management. 6(3), 286-296, 2015. '
+  - 'Amreek Singh, Bhanu Damir, <b>KUSUM DEEP</b> and Ashwagosha Ganju: Calibration  of Nearest Neighbours Model for Avalanche Forecasting", Cold Regions Science and Technology, Vol. 109, pp. 33-42, January 2015, <b>Impact Factor 1.693</b>.'
+
+fourteen:
+  - 'Garima Singh, <b>KUSUM DEEP</b> and Atulya K. Nagar: "Cell-like P-Systems Based on Rules of Particle Swarm Optimization", Applied Mathematics and Computations, Vol. 246, pp. 546-560, Nov.1,2014. <b>Impact Factor 1.738</b>'
+  - '<b>KUSUM DEEP</b>, Hadush Mebrahtu and Atulya Kumar Nagar: "Novel GA for Metropolitan Stations of Indian Railways when modeled as a TSP", International Journal of System Assurance Engineering and Management, Springer, 2014. 10.1007/s13198-014-0328-0.'
+  - 'A. Yadav and <b>KUSUM DEEP</b>: "A shrinking hypersphere PSO for engineering optimisation problems", Journal of Experimental & Theoretical Artificial Intelligence, Taylor & Francis, online July 2014, Vol. 28, pp.1-33, 2016, <b>Impact Factor 0.527</b>.'
+  - 'A. Yadav and <b>KUSUM DEEP</b>: “An Efficient Co-Swarm Particle Swarm Optimization for Non-linear Constrained Optimization”, Journal of Computational Sciences, Elsevier, Vol. 5, Issue 2, pp. 258–268, March 2014. <b>Impact Factor 1.567</b>.'
+  - 'J. C. Bansal, Harish Sharma, K. V. Arya, <b>KUSUM DEEP</b> and Millie Pant: "Self Adaptive Artificial Bee Colony", Optimization: A Journal of Mathematical Programming and Operations Research, Taylor and Francis, Vol. 63, pp. 1513-1532, 2014, <b>Impact factor 0.707</b>.'
+  - 'Madhuri and <b>KUSUM DEEP</b>, “Optimization of Extraction Process of Bioactive Compounds from Gardenia, using PSO”, International Journal of Artificial Intelligence and Soft Computing, Inderscience,  Vol. 4, No. 1, pp. 29-40, 2014.'
+  - 'Madhuri, <b>KUSUM DEEP</b> and J. C. Bansal (2013), “A Nature Inspired Adaptive Inertia Weight in PSO”, International Journal of Artificial Intelligence and Soft Computing, Inderscience, Vol. 4, No.2/3  pp. 228 - 248, 2014.'
+  - 'Krishna Pratap Singh, M. L. Kansal, <b>KUSUM DEEP</b>: “GA-NR for Optimal Design of Water Distribution Networks”, International Journal of Operational Research, Inderscience, Vol. 20, No. 3, pp. 241-261, 2014.'
+  - 'Krishna  Singh, <b>KUSUM DEEP</b> and M. L. Kansal: “Fuzzy Based Interactive Method for Solution of Bi and Multi-level Programming Problems”, International Journal of Information and Decision Sciences, Inderscience, Vol. 6, No. 2, pp. 166-181, 2014.'
+
+thirteen:
+  - '<b>KUSUM DEEP</b>, Pinkey Chauhan and Millie Pant: "Parameter Optimization of Multi-pass Turning using Chaotic PSO", International Journal of Machine Learning and Cybernetics, Springer, pp. 1-19, 2013, DOI: 10.1007/s13042-013-0221-1'
+  - '<b>KUSUM DEEP</b>, Madhuri, Manoj Thakur and Balasubramanian Raman, “Stereo Camera Calibration Using Particle Swarm Optimization” Applied Artificial Intelligence, Taylor & Francis, Vol. 27, Issue 7, pp. 618-634, 2013. <b>Impact Factor 0.563</b>'
+  - 'Anupam Yadav and <b>KUSUM DEEP</b> ”Shrinking Hyperspheres Trajectories in Particle Swarm Optimization”, Applied Mathematics and Computations, Elsevier, Vol. 220, pp. 246-267, 2013, <b>Impact Factor 1.738</b>'
+  - 'A. Yadav and <b>KUSUM DEEP</b>: “Constrained Optimization using Gravitational Search Algorithm”, National Academy Science Letters, Springer, Vol. 36, Issue 5, pp 527-534, October 2013, <b>Impact Factor 0.24</b>. '
+  - 'Pinkey Chauhan, <b>KUSUM DEEP</b> and Millie Pant: “Novel Inertia Weight strategies for Particle Swarm Optimization”, Memetic Computing, Vol. 5, Issue 3, pp.229-251, 2013, <b>Impact Factor 1.0</b>.'
+  - '<b>KUSUM DEEP</b> and Kedar Nath Das: “A novel hybrid genetic algorithm for constrained optimization”, International Journal of System Assurance Engineering and Management, Sprimger, Vol. 4, Issue 1, pp. 86-93, 2013.'
+
+twelve:
+  - '<b>KUSUM DEEP</b> and Dipti: "Proposed Memetic Algorithms for Global Optimization", International Journal of Mathematical Modeling, Simulation and Applications, Vol. 5, No. 2, pp. 129-139, 2012.'
+  - 'Yadav, A, <b>KUSUM DEEP</b> and Kumar, S Metaheuristic Technique for Finding Earthquake Locations in NW Himalayan Region’, Advances in Geosciences, Vol 31, pp. 1-10, 2012.'
+  - 'Harish Sharma, J. C. Bansal and <b>KUSUM DEEP</b>: Dynamic Swarm Artificial Bee Colony Algorithm”, International Journal of Applied Evolutionary Computations, Vol. 3, No. 4, pp. 19-33, 2012. '
+  - '<b>KUSUM DEEP</b>, Pinkey Chauhan, Millie Pant,  "New Hybrid Discrete PSO for Solving Non-Convex Trim Loss Problem" International Journal of Applied Evolutionary Computation ,  Vol. 3, Issue 2, pp. 19-41,2012.'
+  - 'Jagdish Chand Bansal and <b>KUSUM DEEP</b>: “A Modified Binary Particle Swarm Optimization for Knapsack Problems”, Applied Mathematics and Computation, Vol. 218, Issue 22, July 15, 2012, Pages 11042-11061, <b>Impact Factor 1.738</b>'
+  - '<b>KUSUM DEEP</b> and Hadush Mebrahtu: “Variant of partially mapped crossover for the Travelling Salesman problem”, International Journal of Combinatorial Optimization Problems and Informatics, Vol. 3, No.1, pp. 47–69,Jan-April   2012.'
+  - '<b>KUSUM DEEP</b>, Shashi Barak, V. K. Katiyar, Atulya Kumar Nagar: “Minimization of Molecular Potential Energy Function Using newly developed Real Coded Genetic Algorithms”, International Journal of Optimization and Control Theories and Applications (IJOCTA), Vol. 2, No. 1, pp. 51-58, 2012.'
+  - 'Anupam Yadav, <b>KUSUM DEEP</b> and Sushil Kumar: “An Harmonic Potential Well Based Particle Swarm optimization”, Journal of Information and Operations Management, Vol. 3, Issue 1, pp-70-72, 2012.'
+  - '<b>KUSUM DEEP</b>, Anupam Yadav and Sushil Kumar: “Improving Local and Regional Earthquake Locations using an Advanced Inversion Technique–Particle Swarm Optimization”, World Journal of Modelling and Simulation, Vol.8, No.2, pp.135-141, 2012.'
+
+eleven:
+  - '<b>KUSUM DEEP</b>, V.K. Katiyar and Shashi: ‘Minimizing Lennard-Jones Potential Using a real coded Genetic Algorithm and Particle Swarm Optimization’, World Journal of Modelling and Simulation, UK, Vol. 7, No. 4, pp. 312-320, 2011.'
+  - '<b>KUSUM DEEP</b> and Hadush Mebrahtu: “Combined Mutation Operators of Genetic Algorithm for the Travelling Salesman Problem”, International Journal of Combinatorial Optimization Problems and Informatics, Vol. 2, No. 3, pp. 2- 24, 2011.'
+  - '<b>KUSUM DEEP</b>, K. P. Singh and M. L. Kansal: “Genetic Algorithm based Fuzzy Weighted Average Application in Multi-Criteria Decision Making Problems”, Opsearch, Springer, Vol. 48, No.2, pp. 96-108, 2011.'  
+  - 'Pinkey Chauhan, <b>KUSUM DEEP</b> and Millie Pant: "Optimizing CNC Turning Process Using Real Coded Genetic Algorithm and Differential Evolution" Global Journal of Technology and Optimization, Vol. 2, No.2, pp. 157-165, June 2011.'
+  - '<b>KUSUM DEEP</b> and Jagdish Chand Bansal: “Particle Swarm Optimization for Model Order Reduction of Single Input Single Output Systems”, Accepted, Journal of Franklin Institute, Elsevier, Manuscript ID: FL-D-09-00145.'
+  - '<b>KUSUM DEEP</b>, Krishna Pratap Singh, M. L. Kansal and C. Mohan: "An Interactive Method Using Genetic Algorithm for Multi-Objective Optimization Problems Modeled in Fuzzy Environment", Expert Systems with Applications, Volume 38, Issue 3, March 2011, Pages 1659-1667, <b>(Impact Factor 2.254)</b>.'
+  - '<b>KUSUM DEEP</b>, Pinkey Chauhan, Millie Pant: “Optimizing Machining Parameters using a Novel Real Coded GA”, International Journal of Applied Mathematics and Mechanics, Vol.7,Issue 3, pp. 53-69, 2011. ' 
+  - '<b>KUSUM DEEP</b>, Anupam Yadav and Sushil Kumar: “Determining Earthquake Locations in NW Himalayan Region: An Application of Particle Swarm Optimization”, International Journal of Computational Science and Mathematics, Vol. 3, No. 2, pp. 173-181, 2011.'
+  - '<b>KUSUM DEEP</b> and Hadush Mebrahtu: “New Variations of Order Crossover for Travelling Salesman Problem”, International Journal of Combinatorial Optimization Problems and Informatics, Vol. 2, No. 1, Jan-April, pp. 2-13, 2011.'
+
+ten:
+  - '<b>KUSUM DEEP</b> and Madhuri Arya: “Minimization of Lennard-Jones Potential Using Parallel Particle Swarm Optimization Algorithm”, Contemporary Computing, Communications in Computer and Information Science, Vol. 94, No.3, pp. 131-140, 2010.'
+  - '<b>KUSUM DEEP</b>, Madhuri Arya and Shashi Barak: “A New Multi-Swarm Particle Swarm Optimization and Its Application to Lennard-Jones Problem”, INFOCOMP, Journal of Computer Science, Vol. 9, No. 3, September 2010, pp. 52 – 60.'
+  - 'Jagdish Chand Bansal and <b>KUSUM DEEP</b>: “Quadratic Approximation PSO for Economic Dispatch Problems with Valve-Point Effects”, Swarm, Evolutionary, and Memetic Computing, Lecture Notes in Computer Science, 2010, Volume 6466 /2010,pages 460-467.'
+  - 'O.P. Dubey, <b>KUSUM DEEP</b> and M. K. Singh: “Application of Genetic Algorithm to Quadratic Preferenced Goal Programming”, International Journal of Optimization: Theory, Methods and Applications, Vol. 2, No. 4, pp. 283-301, 2010.'
+  - 'Radha Thangaraj, Millie Pant, <b>KUSUM DEEP</b>: “Optimal coordination of over-current relays using modified differential evolution algorithms”, Engineering Applications of Artificial Intelligence, Vol. 23, pp. 820–829, 2010, <b>(Impact Factor 1.947)</b>.'
+  - 'Jagdish Chand Bansal, Shashi, <b>KUSUM DEEP</b>, and V. K. Katiyar: “Minimization Of Molecular Potential Energy Function Using Particle Swarm Optimization”, International Journal of Applied Mathematics and Mechanics, Vol. 6, pp.1-9, 2010.'
+  - 'Shashi, <b>KUSUM DEEP</b>, and V. K. Katiyar: “Minimising Lennard-Jones Potential Using Genetic Algorithm”, GAMS Journal of Mathematics and Mathematical Biosciences (GAMSJMMB) Vol.No. 1 & 2, pp. December 2009, '
+  - '<b>KUSUM DEEP</b> and Kedar Nath Das: “Performance Improvement of Real Coded Genetic Algorithm with Quadratic Approximation based Hybridization”, International Journal of Intelligent Defence Support Systems  (IJIDSS), Inderscience, Vol. 2, N. 4, pp. 319 – 334, 2009. '
+  - '<b>KUSUM DEEP</b> and Dipti: “Reliability Optimization of Complex Systems through C-SOMGA”, Journal of Information and Computing Science, Vol. 4  No. 3, pp.161-240, August 2009.'
+  - '<b>KUSUM DEEP</b> and J. C. Bansal: “Particle Swarm Optimization for Optimal Design of Water Distribution of Networks”, accepted, Opsearch, Springer, 2009.'
+  - '<b>KUSUM DEEP</b>, K. P. Singh, M. L. Kansal and C. Mohan: “A Real Coded Genetic Algorithm for Integer and Mixed Integer Non-linear Optimization Problems”, Applied Mathematics and Computation, Elsevier, Volume 212, Issue 2, pp. 505-518, 2009. <b>Impact Factor 1.738.<ins> Most downloadable paper of the Journal</ins></b>' 
+  - '<b>KUSUM DEEP</b> and J. C. Bansal: “Mean Particle Swarm Optimization for Function Optimization”, International Journal of Computational Intelligence Studies (IJCIStudies), Inderscience Publications, Vol.1, No. 1, pp.72-92, 2009.'
+  - 'Millie Pant, Radha Thangaraj, Ajith Abraham and <b>KUSUM DEEP</b>, “Particle Swarm Optimization Using Sobol Mutation”, International Journal of Simulation Systems, Science and Technology, UK, Volume 10, No. 3, pp. 89 – 98, May 2009.'
+  - '<b>KUSUM DEEP</b> and J. C. Bansal “Hybridization of Particle Swarm Optimization with Quadratic Approximation”, Opsearch, Springer, Vol. 46, No. 1, pp. 3-24, 2009. '
+  - '<b>KUSUM DEEP</b>, K. P. Singh, M. L. Kansal and C. Mohan: “A Fuzzy Interactive Approach to Portfolio Management”, Opsearch, Springer, Vol. 46, No. 1, pp. 69-88, 2009.'
+  - '<b>KUSUM DEEP</b>, K. P. Singh, M. L. Kansal and C. Mohan: “Management of multi Purpose multi reservoir using fuzzy interactive method”, Water Resources Management, Springer,  Vol. 23, Issue 14, page 2987, 2009 <b>Impact Factor 2.463</b>.'
+  - '<b>KUSUM DEEP</b> and Manoj Thakur: “A Real Coded Multi Parent Genetic Algorithm for Function Optimization”, Journal of Hybrid Computing Research, Vol. 1, No. 2, pp. 67 – 83, July-Dec. 2008.'
+  - '<b>KUSUM DEEP</b> and J. C. Bansal, “A New Chaotic Particle Swarm Optimization Algorithm,” International Journal of Mathematical Modeling, Simulation and Applications, Vol. 1, No. 3, 2008 pp. 249-263.' 
+  - '<b>KUSUM DEEP</b> and Kedar Nath Das:, “Quadratic approximation based Hybrid Genetic Algorithm for Function Optimization”, Applied Mathematics and Computations, Elsevier, Vol. 203, pp. 86 – 98, 2008, <b>Impact Factor 1.738</b>'
+  - '<b>KUSUM DEEP</b> and Kedar Nath Das, “Optimization of Infiltration Parameters in Hydrology”, World Journal of Modelling and Simulation, Vol. 4, No. 2, pp. 120-130, 2008. '
+  - '<b>KUSUM DEEP</b> and Dipti: “A Self Organizing Migrating Genetic Algorithm for Constrained Optimization”, Applied Mathematics and Computations,  Elsevier, Vol. 198, pp. 237 – 250, 2008, <b>Impact Factor 1.738</b>'
+  - '<b>KUSUM DEEP</b>, M. L. Kansal and K. P. Singh: “Ranking of alternatives in fuzzy environment using integral value”, Journal of  Mathematics, Statistics and Allied Fields, Vol. 1, Issue 2, 2007, ISSN 1556-6757 , USA. ' 
+  - '<b>KUSUM DEEP</b> and Manoj Thakur: “A New Mutation Operator for Real Coded Genetic Algorithms”, Applied Mathematics and Computations, Vol. 193, Issue 1, pp. 211 – 230, October 1, 2007, <b>Impact Factor 1.738</b>'
+  - '<b>KUSUM DEEP</b> and Manoj Thakur: “A New Crossover Operator for Real Coded Genetic Algorithms”, Applied Mathematics and Computations, Vol. 188, Issue 1, pp. 895 – 911, May 1, 2007, <b>Impact Factor 1.738</b>'
+  - 'K. Ramji, V. K. Goel, <b>KUSUM DEEP</b> & Manoj Thakur: “Optimum Design of Suspension System of Three - Wheeled Motor Vehicles”, World Journal of Modeling and Simulation, UK, Vol. 3, No. 1, pp. 36 – 44, 2007. ' 
+  - '<b>KUSUM DEEP</b> and Kedar Nath Das: “Choice of Selection and Crossover on some Benchmark Functions”, International Journal of Computers, Mathematics and Applied Sciences, Vol. 1, No.1, pp.99-117, March 2007. ' 
+  - 'Dinesh Birla, R. P. Maheshwari, H. O. Gupta, <b>KUSUM DEEP</b>,  Manoj Thakur: “Application of Random Search Technique in Directional Overcurrent Relay Co-ordination”, International Journal of Emerging Electric Power Systems, Volume 7, Issue 1, Article 1, September 2006. '
+  - '<b>KUSUM DEEP</b>, D. Birla,  R. P.Maheshwari, H. O. Gupta, & Manoj Thakur: “A Population based Heuristic Algorithm for Optimal Relay Operating Times”, World Journal of Modeling and Simulation, UK,Vol.2,No. 3, pp. 167 – 176, August 2006. '
+  - '<b>KUSUM DEEP</b>: “A Heuristic Algorithm for Optimal Design of Water Distribution Networks”, International Journal of Management and Systems, Vol. 22, No. 2, 165-174, May – August, 2006. '
+  - 'V. K. Goel, Manoj Thakur, <b>KUSUM DEEP</b> and B. K. Awasthi: “Mathematical Model to represent the Track Geometry Variations using PSD”, Railway Bulletin of Indian Railways, Vol. LXI, No. 312-313, pp.1 – 9, February – May, 2005, <b><ins>BEST TECHNICAL PAPER FOR 2005 AWARDED BY INDIAN RAILWAYS</ins></b>.'
+  - '<b>KUSUM DEEP</b> and Millie Pant: “Maximization of Expected Target Damage Value”, Defence Science Journal, Vol. 55, No. 2, pp. 133 – 139, April 2005, <b>Impact Facter 0.5</b>.'
+  - '<b>KUSUM DEEP</b> and Millie Pant: “Genetic Random Search Technique for solving Practical Geometric Programming Problems”, International Journal of Management Systems,Vol. 20,No.3, pp. 235–244,September – December, 2004. '
+  - '<b>KUSUM DEEP</b> and Millie Pant: “Solution of Fractional Programming Problems using Genetic Random Search Technique”, International Journal of Management and Systems, Vol. 19, No. 2, pp. 101-116, May – August, 2003. '
+  - '<b>KUSUM DEEP</b> and Millie Pant: “A New Algorithm for Global Optimization”, International Journal of Applied Sciences and Computations, Illinois, U.S.A., Vol. 9, #1, pp. 55-63, 2002. '
+  - '<b>KUSUM DEEP</b> and D. J. Evans: “The Random Search Global Optimization Method for Parallel Computers”, Parallel Algorithms and Applications, Vol. 5, pp.269-282, 1995. '
+  - 'B. Sridevi and <b>KUSUM DEEP</b>: “Modeling of Slope Failures using Global Optimization Techniques”, Journal of Engineering Optimization, Taylor & Francis, Vol. 23, No.4, pp.255-266, 1995, <b>Impact Factor 1.23</b> '
+  - 'C.Mohan and <b>KUSUM SHANKER (now DEEP)</b>: “A Random Search Technique for Global Optimization Based on Quadratic Approximation”, Asia Pacific Journal of Operations Research, Vol.11, pp.93-101, 1994, <b>Impact Factor 0.22</b>'
+  - '<b>KUSUM SHANKER (now DEEP)</b>, C.Mohan and K.N.Khattri: “Inversion of Seismological Data using Random Search Global Optimization Technique”, Tectonophysics, Vol.198,pp.77-83, 1991, (<b>Impact Factor 2.866</b>)'
+  - 'C.Mohan and <b>KUSUM SHANKER (now DEEP)</b>: “Computational Algorithms Based on Random Search Technique for solving Global Optimization Problems”, International Journal of Computer Mathematics, Vol.33, pp.115-126, 1990, <b>Impact Factor 0.48</b>) <b><ins>KHOSLA AWARD 1991</ins></b>.'
+  - '<b>KUSUM SHANKER (now DEEP)</b>, C.Mohan and K.N.Khattri: “Inversion of Gravity Data by Random Search Technique”, Journal of Association of Exploration Geophysics, Vol. X, No.4, pp.153-170, 1989. '
+  - 'C.Mohan and <b>KUSUM SHANKER (now DEEP)</b>: “Reliability Optimization of Complex Systems using Random Search Technique”, Microelectronics and Reliability, Vol. 28, No.4, pp.513-518, 1988, <b>Impact Factor 1.214</b>'
+  - 'C.Mohan and <b>KUSUM SHANKER (now DEEP)</b>: “A Numerical Study of some Modified versions of the Controlled Random Search Method for Global Optimization”, International Journal of Computer Mathematics, Vol.24, No.1, 1988, <b>Impact Factor 0.721</b>'
+
+
+        
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+    </div>
+
+    
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+  	<li><strong>Follow:</strong></li>
+
+  	<li><a href="https://www.facebook.com/kusumdeep"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    
+    
+    
+    
+    
+    
+    <!--<li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>-->
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2018 . Designed with &hearts; by <a href="https://github.com/Paluck29/">Paluck</a>. <br>Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+
+
+
+    <div style="text-align:center;">
+      <script type="text/javascript" src="http://services.webestools.com/cpt_visitors/55980-6-8.js"></script>
+    </div>
+
+
+
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+  <script type="text/javascript">
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("top").style.display = "block";
+      } else {
+        document.getElementById("top").style.display = "none";
+      }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function backToTop() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
+
+
+
+
+
+
+
+  </body>
+</html>

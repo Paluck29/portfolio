@@ -1,0 +1,427 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.11.2 by Michael Rose
+  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Prof. Kusum Deep, PhD</title>
+<meta name="description" content="A Mathematician">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="Prof. Kusum Deep, PhD">
+<meta property="og:url" content="http://localhost:4000/">
+
+
+  <meta property="og:description" content="A Mathematician">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/_images/cals.jpg">
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+
+    <button onclick="backToTop()" id="top" title="Go to top">^</button>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="/"></a>
+        <ul class="visible-links">
+
+            <li class="masthead__menu-item">
+              <a href="/index/" >Home</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/teaching/" >Teaching</a>
+            </li>
+            
+            <li class="masthead__menu-item">
+              <a href="/research/" >Research</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/students/" >Students</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/project/" >Projects</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/scrs/" >About SCRS</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/awards/" >Awards</a>
+            </li>
+
+            <li class="masthead__menu-item">
+              <a href="/contact/" >Contact Me</a>
+            </li>
+          
+        </ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: url('/_images/cals.jpg'); height: 120px;">
+  
+    <div class="wrapper">
+      <h1 class="page__title" itemprop="headline" style="margin-bottom: 40px;">
+        
+          Prof. Kusum Deep, PhD
+
+        
+      </h1>
+      
+        <!--<p class="page__lead">A Mathematician
+</p>-->
+      
+      
+      
+    </div>
+  
+  
+    <span class="page__hero-caption">Photo credit: <a href="https://wallpapercave.com/mathematics-wallpaper"><strong>Wallpapercave</strong></a>
+</span>
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky" style="width: 250px;">
+  
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+
+      
+        <img src="/_images/mom.jpg" alt="Kusum Deep" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Kusum Deep</h3>
+    
+    
+      <p class="author__bio" itemprop="description">
+        Professor, <br>IIT Roorkee.
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Roorkee</span>
+        </li>
+      
+
+      
+
+      
+        <li>
+          <a href="mailto:kusumfma@iitr.ernet.in">
+            <meta itemprop="email" content="kusumfma@iitr.ernet.in" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      	
+      	<li>
+          <a href="http://scrs.in/" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> SCRS
+          </a>
+        </li>
+
+
+
+
+
+        <li>
+          <a href="http://scholar.google.com/citations?user=ByQN_c0AAAAJ" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+
+
+
+
+
+      	 <li>
+          <a href="https://www.facebook.com/kusumdeep" itemprop="sameAs">
+            <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
+
+
+
+
+
+
+
+ 
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Prof. Kusum Deep, PhD">
+    <meta itemprop="description" content="A Mathematician">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text" style="width: 725px;">
+        
+        
+        ---
+student:
+  - 'First in Class, AIHS., 1974.'
+  - 'UGC National Merit Scholarship, B. Sc. (Hons.), 1975-78.'
+  - 'University Gold Medal, M.Phil, 1984.'
+  - 'UGC National Education Test, 1984.'
+
+before:
+  - 'Khosla Research Award, University of Roorkee, 1991.'
+  - 'Post Doctoral Research funded by Commission of European Communities, Brussels, at Department of Computer Studies, Loughborough University of Technology, Loughborough, U.K. from November 1993 to November 1994.'
+
+after:
+  - 'Research Award (Career Award), UGC, 2002 – 2005.'
+  - 'Sponsored Research Project under Thrust Area, MHRD, 2005– 07.'
+  - 'Starred Performance, IIT – Roorkee Faculty, 2001 – 02 & 2002–03.'
+  - 'Starred Performance, IIT – Roorkee Faculty, 2003 – 04.'
+  - 'Starred Performance, IIT – Roorkee Faculty, 2004 – 05.'
+  - 'Special facilitation in memory of late Prof. M. C. Puri, during 40th Convention of ORSI, Golden Jubilee Celebrations, New Delhi, Dec. 2007.'
+  - 'Best Technical Paper Award: The following research paper jointly written with V. K. Goel, Manoj Thakur and B. K. Awasthi has received the best technical paper published in the Railway Bulletin of Indian Railways for the year 2005. The award carries a cash prize of Rs. 1000/-. <br>
+     ”Mathematical Model to represent the Track Geometry Variations using  PSD”, Railway Bulletin of Indian Railways, Vol. LXI, No. 312-313, pp.1–9, Feb–May, 2005.'
+  - 'Nominated as EXPERT, Dept. of Science and Technology, New Delhi.'
+  - 'Nominated as Senior Member, Operations Research Society of India.'
+  - 'Nominated as Senior Life Member, Computer Society of India.'
+  - 'President, Soft Computing Research Society.'
+  - 'Received Best Paper Award for the paper 
+     Vanita Garg and KUSUM DEEP: "Optimal Extraction of Bioactive  Compounds from Gardenia Using Laplacian Biogoegraphy Based  Optimization", 2nd International Conference on Harmony Search   Algorithms, Seoul, Korea University, Korea, August 19-21, 2015,   Advances in Intelligent Systems and Computing, Springer, Vol. 382,  pp.251-258, 2015.'
+        
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+    </div>
+
+    
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+  	<li><strong>Follow:</strong></li>
+
+  	<li><a href="https://www.facebook.com/kusumdeep"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    
+    
+    
+    
+    
+    
+    <!--<li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>-->
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2018 . Designed with &hearts; by <a href="https://github.com/Paluck29/">Paluck</a>. <br>Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+
+
+
+    <div style="text-align:center;">
+      <script type="text/javascript" src="http://services.webestools.com/cpt_visitors/55980-6-8.js"></script>
+    </div>
+
+
+
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+  <script type="text/javascript">
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("top").style.display = "block";
+      } else {
+        document.getElementById("top").style.display = "none";
+      }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function backToTop() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
+
+
+
+
+
+
+
+  </body>
+</html>

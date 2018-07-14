@@ -1,0 +1,32 @@
+<div class="authored">
+	<h3 id="book_authored">TEXT BOOK AUTHORED</h3>
+		<ol>
+		{% for item in site.data.books.authored %}	
+			<li>{{item}}
+			{% include gallery caption="Optimization Techniques"  %}		
+			</li>
+		{% endfor %}
+		</ol> 
+	
+</div>
+<div class="special">
+	<h3 id="special_issue">SPECIAL ISSUE OF JOURNAL EDITED</h3>
+		<ol>
+		{% for item in site.data.books.special %}
+			<li>{{item}}</li> 
+		{% endfor %}
+		</ol>
+</div>
+<div class="proceedings">
+	<h3 id="conf_proceedings">INTERNATIONAL CONFERENCE PROCEEDINGS EDITED</h3>
+		<ol>
+		{% for item in site.data.books.proceedings %}
+			<li>
+				Series: {{item.series}}		<br>
+				{{item.name}}		<br>
+				Editors: {{item.editors}}	<br>
+				{{item.link}}		<br>
+			</li>		<br>
+		{% endfor %} 
+		</ol>
+</div>

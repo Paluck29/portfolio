@@ -1,0 +1,141 @@
+<div class="phd">
+	<h2 id="phd">PhD Thesis Guided</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Year of Award</th>
+				<th>Title</th>
+				<th>Co-supervisers (if any) </th>
+				<th>Current Position</th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.students.phd %}
+			<tr>
+			<td> {{item.name}} </td>
+			<td> {{item.year}} </td>
+			<td> {{item.title}} </td>
+			<td> {{item.cosupervisers}} </td>	
+			<td> {{item.current}} </td>	
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>
+<br>
+<div class="mtech">
+	<h2 id="mtech">M.Tech Thesis Guided</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Year of Award</th>
+				<th>Title</th>
+				<th>Co-supervisers (if any) </th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.students.mtech %}
+			<tr>
+			<td> {{item.name}} </td>
+			<td> {{item.year}} </td>
+			<td> {{item.title}} </td>
+			<td> {{item.cosupervisers}} </td>		
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>
+<br>
+<div class="mphil">
+	<h2 id="mphil">M.Phil Thesis Guided</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Year of Award</th>
+				<th>Title</th>
+				<th>Co-supervisers (if any) </th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.students.mphil %}
+			<tr>
+			<td> {{item.name}} </td>
+			<td> {{item.year}} </td>
+			<td> {{item.title}} </td>
+			<td> {{item.cosupervisers}} </td>		
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>
+<br>
+<div class="mca">
+	<h2 id="mca">MCA Thesis Guided</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Year of Award</th>
+				<th>Title</th>
+				<th>Co-supervisers (if any) </th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.students.mca %}
+			<tr>
+			<td> {{item.name}} </td>
+			<td> {{item.year}} </td>
+			<td> {{item.title}} </td>
+			<td> {{item.cosupervisers}} </td>		
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>
+<br>
+<div class="msc">
+	<h2 id="msc">M.Sc. Thesis Guided</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Year of Award</th>
+				<th>Title</th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.students.msc %}
+			<tr>
+			<td> {{item.name}} </td>
+			<td> {{item.year}} </td>
+			<td> {{item.title}} </td>		
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>
+<br>
+<div class="idd">
+	<h2 id="idd">IDD Thesis Guided</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Year of Award</th>
+				<th>Title</th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.students.idd %}
+			<tr>
+			<td> {{item.name}} </td>
+			<td> {{item.year}} </td>
+			<td> {{item.title}} </td>
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>
