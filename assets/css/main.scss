@@ -21,7 +21,6 @@ p{
 	line-height:20px;
 }
 
-
 .toc{
 	position: fixed;
 	width: 250px;
@@ -57,9 +56,7 @@ $paragraph-indent: true;
   height: 80px;
 }
 
-
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
